@@ -1,0 +1,10 @@
+server:
+  host: 0.0.0.0
+  port: 8080
+
+MySQL:
+  dsn: root:yiran2002@tcp(116.63.13.210:3306)/blog?charset=utf8mb4&parseTime=True&loc=Local&interpolateParams=true
+
+Admin:
+  username: yiran.1
+  password: passwordHash
